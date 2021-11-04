@@ -68,7 +68,7 @@
     </div>
   </div>
 </template>
-
+// домашка №8
 <script>
 import User from './layouts/components/User.vue';
 import Search from './layouts/components/Search.vue';
